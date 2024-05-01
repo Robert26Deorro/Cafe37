@@ -29,7 +29,7 @@ html{
 body{
 	margin: 0;
 	padding: 0;
-	font-family: var(--main-font);
+	font-mily: var(--main-font);
 	font-weight: 400;
 	font-size: 12px;
 	background: #0A0B0A;
@@ -932,7 +932,7 @@ blockquote p {
 	color:#ccc;
     transition: all .3s ease-in-out;
 } 
-.hero-menu_header li a {
+._header li a {
 	color:#666;
     transition: all .3s ease-in-out;
 } 
@@ -988,7 +988,7 @@ blockquote p {
     position: absolute;
     left: 0;
     top: 50%; 
-	margin-top: -45px;
+	margin-top: -50px;
 	box-shadow: 0px 10px 14px 0px rgba(12, 0, 46, .2);
 }
 .hero-menu-item-img img {
