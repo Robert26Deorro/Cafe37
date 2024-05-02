@@ -3724,7 +3724,7 @@ footer.main-footer {
   	transition: all 2000ms cubic-bezier(.19,1,.22,1) 0ms;
 }
 .gallery-item:hover img {
-	transform: scale(1.15);
+	transform: scale(1.05);
 }
 .gallery-filters {
     border: 1px solid #eee;
